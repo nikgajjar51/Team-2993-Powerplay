@@ -2,7 +2,7 @@ package org.firstinspires.ftc.team2993;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 @com.qualcomm.robotcore.eventloop.opmode.TeleOp
-public class driver_control extends OpMode{
+public class main extends OpMode{
     public robot_config robot;
     @Override
     public void init(){
